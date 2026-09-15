@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- Outer vinyl dark circle -->
+  <circle cx="256" cy="256" r="250" fill="#0b0d12" stroke="#1f2430" stroke-width="4"/>
+  
+  <!-- Outer Ring -->
+  <circle cx="256" cy="256" r="185" stroke="#ffffff" stroke-width="26" fill="none"/>
+  
+  <!-- Middle Ring -->
+  <circle cx="256" cy="256" r="130" stroke="#ffffff" stroke-width="20" fill="none" opacity="0.95"/>
+  
+  <!-- Inner Ring & Stylized Wave Music Note -->
+  <!-- Note head -->
+  <ellipse cx="230" cy="290" rx="34" ry="28" transform="rotate(-25 230 290)" stroke="#ffffff" stroke-width="18" fill="none"/>
+  
+  <!-- Note stem -->
+  <path d="M256 280 V160" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+  
+  <!-- Flowing Note flag / Wave sound arc -->
+  <path d="M256 160 C 275 160, 325 185, 335 245 C 340 275, 320 310, 298 322" stroke="#ffffff" stroke-width="18" stroke-linecap="round" fill="none"/>
+  
+  <!-- Concentric Sound Accent -->
+  <path d="M272 135 C 315 140, 360 180, 365 240 C 370 280, 350 325, 320 345" stroke="#ffffff" stroke-width="14" stroke-linecap="round" fill="none" opacity="0.85"/>
+  
+  <!-- Inner harmonic arc -->
+  <path d="M205 205 C 180 230, 180 285, 205 315" stroke="#ffffff" stroke-width="12" stroke-linecap="round" fill="none" opacity="0.8"/>
+</svg>
